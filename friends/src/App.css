@@ -1,0 +1,19 @@
+.friend-list{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.friend-card{
+    box-sizing: border-box;
+    margin: 1em;
+    width: 25em;
+    padding: 1em;
+    background-color: azure;
+    border: 1px solid black;
+}
+
+.friend-card h1{
+    text-align: center;
+}
